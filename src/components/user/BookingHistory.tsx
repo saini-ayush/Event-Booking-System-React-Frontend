@@ -1,4 +1,3 @@
-// src/components/user/BookingHistory.tsx
 import { useState, useEffect } from "react";
 import type { Booking } from "@app-types/event";
 import eventService from "@services/event.service";
